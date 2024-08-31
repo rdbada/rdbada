@@ -1,6 +1,8 @@
 # OmniOne Digital ID
 
-**OmniOne Digital ID** is an open-source implementation of Decentralized Identifiers (DIDs), designed to provide developers with the tools they need to integrate self-sovereign identity management into their applications. OmniOne adheres to the latest DID standards and is built to be secure, scalable, and interoperable.
+**OmniOne Digital ID** is an open source project that aims to drive global adoption and expansion of self-sovereign identity through a secure identity system based on the technology that built the Republic of Korea's national mobile ID.
+
+**OmniOne Digital ID** is an open source decentralized identifier (DID) designed to provide developers with the tools they need to integrate self-sovereign identity management into their applications, built to be secure, scalable, and interoperable by adhering to the latest DID standards.
 
 ## Features
 
