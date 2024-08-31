@@ -4,7 +4,12 @@
 
 **OmniOne Digital ID** is an open source decentralized identifier (DID) designed to provide developers with the tools they need to integrate self-sovereign identity management into their applications, built to be secure, scalable, and interoperable by adhering to the latest DID standards.
 
-## Features
+## Goals
+
+- We aim to provide a digital identity authentication system through the OPEN DID platform based on trust and responsibility to various members of the digital world.
+- Through this, we reduce social costs and enable the socially excluded from the infrastructure to fulfill their “social responsibility for realizing human values.”
+
+## Project Structure
 
 - **Decentralized**: No reliance on a central authority, empowering users with full control over their digital identities.
 - **Standards-Compliant**: Implements W3C DID standards to ensure compatibility across platforms.
