@@ -107,7 +107,7 @@ OmniOne Digital ID was made possible thanks to the contributions of the open-sou
 
 ### Contact
 
-For further inquiries or support, please contact us at [technical@omnione.com](mailto:technical@omnione.com).
+For further inquiries or support, please contact us at [technical@omnione.com](mailto:technical@omnione.net).
 
 ## Additional Resources
 
@@ -117,7 +117,7 @@ For further inquiries or support, please contact us at [technical@omnione.com](m
 
 ## Roadmap
 
-OmniOne is under active development. Here are some features we're planning to add:
+OmniOne Digital ID is under active development. Here are some features we're planning to add:
 
 - **Support for additional DID methods**
 - **Enhanced privacy features**
