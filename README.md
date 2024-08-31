@@ -103,7 +103,7 @@ Apache License 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 
 ### Acknowledgments
 
-OmniOne was made possible thanks to the contributions of the open-source community and the support of various partners.
+OmniOne Digital ID was made possible thanks to the contributions of the open-source community and the support of various partners.
 
 ### Contact
 
