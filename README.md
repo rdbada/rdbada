@@ -47,7 +47,7 @@ To install OmniOne, follow these steps:
 
 ### Usage
 
-OmniOne provides a set of commands to manage DIDs. Below are some basic usage examples:
+OmniOne Digital ID provides a set of commands to manage DIDs. Below are some basic usage examples:
 
 - **Start the DID Service**:
 
@@ -77,14 +77,14 @@ OmniOne provides a set of commands to manage DIDs. Below are some basic usage ex
 
 ### Examples
 
-Here’s how you can use OmniOne in your project:
+Here’s how you can use OmniOne Digital ID in your project:
 
 - **Integrating with a Web Application**: OmniOne can be integrated into a web application to enable users to authenticate using their DIDs.
 - **Cross-Chain DID Resolution**: Utilize OmniOne's interoperability features to resolve DIDs across different blockchain networks.
 
 ### Contributing
 
-We welcome and appreciate contributions from the community! To contribute to OmniOne:
+We welcome and appreciate contributions from the community! To contribute to OmniOne Digital ID:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
@@ -107,7 +107,7 @@ OmniOne was made possible thanks to the contributions of the open-source communi
 
 ### Contact
 
-For further inquiries or support, please contact us at [support@omnione.com](mailto:support@omnione.com).
+For further inquiries or support, please contact us at [technical@omnione.com](mailto:technical@omnione.com).
 
 ## Additional Resources
 
