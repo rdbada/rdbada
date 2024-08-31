@@ -9,12 +9,13 @@
 - We aim to provide a digital identity authentication system through the OPEN DID platform based on trust and responsibility to various members of the digital world.
 - Through this, we reduce social costs and enable the socially excluded from the infrastructure to fulfill their “social responsibility for realizing human values.”
 
-## Project Structure
+## Structure
+The OPEN DID system consists of a Trust Environment for establishing a trust chain between participating entities, a Wallet for storing and managing various certificates based on Digital ID, a Digital ID that includes various certificates, and Security for data protection.
 
-- **Decentralized**: No reliance on a central authority, empowering users with full control over their digital identities.
-- **Standards-Compliant**: Implements W3C DID standards to ensure compatibility across platforms.
-- **Interoperable**: Supports multiple DID methods, making it easy to integrate with various blockchain networks.
-- **Secure**: Focused on privacy and security, ensuring that users' identities are protected.
+- **Trust Environment**: The components of OPEN DID define and develop methods for establishing a chain of trust between components to build a trust environment based on Digital IDs.
+- **Wallet**: Define the lifecycle of the wallet and e-signs and develops the architecture for key management, storage management, access control management, and security management of the wallet.
+- **Digital ID**: Define a data model based on W3C’s Decentralized Identifier and Verifiable Credentials specifications.
+- **Security**: Ensures a level of security that ensures the authenticity, confidentiality, and integrity of data exchanged between OPEN DID components.
 
 ## Getting Started
 
