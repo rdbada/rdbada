@@ -113,7 +113,7 @@ For further inquiries or support, please contact us at [technical@omnione.com](m
 
 - **Documentation**: Detailed documentation is available in the [docs](docs) folder.
 - **Issue Tracking**: Please report issues or request features via the [GitHub Issues](https://github.com/yourusername/OmniOne/issues) page.
-- **Community Discussions**: Join our [community forum](https://community.omnione.com) to discuss OmniOne and decentralized identity.
+- **Community Discussions**: Join our [community forum](https://opendid.omnione.net/community) to discuss OmniOne and decentralized identity.
 
 ## Roadmap
 
